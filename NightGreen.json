@@ -1,1 +1,244 @@
-e
+{
+    "name": "NightGreen",
+    "description": "Made with hate to admins of Vendetta server who gave me dev mute",
+    "authors": [ {
+        "name": "555oli"
+    }
+    ],
+    "semanticColors": {
+
+        "CHAT_BACKGROUND": [
+
+        "#150621",
+
+        "#150621",
+
+        "#160721",
+
+        "#150621"],
+
+        "TEXT_MUTED" : [
+
+        "#5e17",
+
+        "#5e17",
+
+        "#5e18" 
+    ],
+
+        "INTERACTIVE_NORMAL" : [
+
+        "#000",
+
+        "#000",
+
+        "#000",
+
+        "#000"
+
+        ],
+
+        "INTERACTIVE_ACTIVE" : [ 
+
+        "#119111",
+
+        "#108911",
+
+        "#7f38",
+
+        "#1938"
+
+        ],
+
+        "BACKGROUND_PRIMARY" : [
+
+        "#888",
+
+        "#888888",
+
+        "#8888",
+
+        "#919999"
+
+
+        ],
+
+        "BACKGROUND_TERTIARY" : [ 
+
+        "#9999",
+
+        "#9999",
+
+        "#999498",
+
+        "#7999"
+
+        ],
+
+        "CHANNEL_TEXT_AREA_PLACEHOLDER" : [
+
+        "#709592",
+
+        "#399639",
+
+        "#499929",
+
+        "#4939"
+
+        ],
+
+        "BACKGROUND_SECONDARY_ALT" :[
+
+        "#4938",
+
+        "#4929",
+
+        "#5939",
+
+        "#5929"
+
+
+        ],
+
+        "BACKGROUND_MOBILE_SECONDARY":[
+
+        "#1114",
+
+        "#1114",
+
+        "#1115",
+
+        "#1112"
+
+        ],
+
+        "CHANNEL_ICON":[
+
+        "#1139",
+
+        "#1139",
+
+        "#1139",
+
+        "#1139"
+
+        ],
+
+        "CHANNEL_NAME" :[
+
+        "#195",
+
+        "#193",
+
+        "#391",
+
+        "#392"
+
+        ],
+
+        "BACKGROUND_MOBILE_PRIMARY":[
+
+        "#1129",
+
+        "#1129" ,
+
+        "#1129" ,
+
+        "#1129"
+
+        ],
+
+        "BACKGROUND_ACCENT" :[
+
+        "#111",
+
+        "#111" ,
+
+        "#111" ,
+
+        "#111"
+
+        ],
+
+        "TEXT_NORMAL":[
+
+        "#fff",
+
+        "#ffff",
+
+        "#ffff" ,
+
+        "#fff"
+
+        ],
+
+        "TEXT_DANGER":[
+
+        "#1f9",
+
+        "#1f9",
+
+        "#1f9" ,
+
+        "#1f9"
+
+        ],
+
+        "TEXT_LINK":[
+
+        "#281",
+
+        "#2819",
+
+        "#2729" ,
+
+        "#295"
+
+        ],
+
+        "TEXT_LINK_LOW_SATURATION": [
+
+        "#290",
+
+        "#290",
+
+        "#290"
+
+        ],
+
+        "TEXT_WARNING": [ "#f005",
+
+        "#f005",
+
+        "#f005"
+
+        ],
+
+        "TEXTBOX_MARKDOWN_SYNTAX": [
+
+        "#949ba4",
+
+        "#41434a",
+
+        "#949ba4"],
+
+        "TEXT_HOVER": [
+
+        "#394",
+
+        "#394",
+
+        "#394"
+
+        ],
+
+        "TEXT_POSITIVE":[
+
+        "#793",
+
+        "#793",
+
+        "#793"
+        ]
+        }
+    }
